@@ -1,3 +1,3 @@
 # Loger
-cocos2dx log 
+# cocos2dx log 
  
